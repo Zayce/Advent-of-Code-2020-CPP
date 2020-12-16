@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Zoella/CLionProjects/Advent of Code 2020/main.cpp
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+algorithm
+-
+array
+-
+
